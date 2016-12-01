@@ -1,7 +1,7 @@
 {
   "name": "hn-react-webapck",
   "version": "1.0.0",
-  "description": "",
+  "description": "a simple react+webpack+es6 demo",
   "main": "webpack.config.js",
   "scripts": {
     "start": "webpack-dev-server",
@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "yyj",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "jquery": "^3.1.1",
     "react": "^15.4.0",
@@ -26,5 +26,13 @@
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
     "webpack": "^1.13.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eJayYoung/simple-react-webpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eJayYoung/simple-react-webpack/issues"
+  },
+  "homepage": "https://github.com/eJayYoung/simple-react-webpack#readme"
 }
